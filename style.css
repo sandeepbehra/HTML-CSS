@@ -1,0 +1,106 @@
+
+
+/* -------------------------practice set 03--------------------  */
+
+#div1{
+    background-color: rgba(255,0,0,0.5);
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+#div2{
+    background-color: rgba(0,255,0,0.5);
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+#div3{
+    background-color: rgba(0,0,255,0.5);
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+     
+}
+
+#navbar{
+    background-color: black;
+    height: 60px;
+   
+}
+#a1{
+    font-size: 25px;
+    color: #f08804;
+}
+
+a{
+    text-decoration: none;
+    margin-right: 200px;
+}
+
+button{
+    background-color: #f08804;
+}
+/*---------------------------------------------
+ div{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: green;
+} */
+
+/* 
+#panel{
+    height: 200px;
+    width: 100px;
+    background-color: black;
+}
+#d1{
+    margin: 5px;
+   
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: red;
+}
+#d2{
+    margin: 5px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: yellow
+}
+#d3{
+    margin: 5px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: green;
+} */
+
+
+
+
+
+/* -----------------------------------Practice set 2-------------------------------------------- */
+/* h1{
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration:overline dashed
+}
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#outer{
+    font-size: 25px;
+}
+
+#inner{
+    font-size: 10px;
+} */
