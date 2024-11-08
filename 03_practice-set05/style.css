@@ -1,0 +1,11 @@
+.divClass{
+    height: 360px;
+    width: 270px;
+    background-color: aqua;
+    background-image: url("LoveNature-photo.jpg.jpg");
+    background-size: cover;
+    position:fixed;
+    bottom: 0px;
+    right: 0px;
+  
+}
